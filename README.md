@@ -8,7 +8,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm gratuated of Network Computing at the Faculdade Senai.\
+🎓 &nbsp;I'm gratuated of Network Computing at the Faculdade Senai - Goiás.\
 🌱 &nbsp;I'm on track for learning more about DevOps, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I'd like to play games and other stuffs.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
@@ -56,7 +56,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.devvos.com.br"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/raulneiva"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:raulneivaweb@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.devvos.com.br"><img src="https://img.shields.io/badge/-devvos.com.br-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/raulneiva"><img src="https://img.shields.io/badge/-Raul%20Neiva%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:raulneivaweb@gmail.com"><img src="https://img.shields.io/badge/-raulneivaweb@gmail.comD14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
