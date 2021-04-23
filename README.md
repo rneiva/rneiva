@@ -40,6 +40,7 @@
 ![NewRelic](https://img.shields.io/badge/-New%20Relic-05122A?style=flat&logo=new-relic&logoColor=white)&nbsp;
 ![Datadog](https://img.shields.io/badge/-Datadog-05122A?style=flat&logo=datadog&logoColor=white)&nbsp;
 
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
 
