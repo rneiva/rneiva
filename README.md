@@ -8,7 +8,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm gratuated of Network Computing at the Faculdade Senai - Goiás.\
+🎓 &nbsp;I'm gratuated of Network Computing at the University of Franca - SP.\
 🌱 &nbsp;I'm on track for learning more about DevOps, Kubernetes and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I'd like to play games and other stuffs.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
