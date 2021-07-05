@@ -12,7 +12,7 @@
 🌱 &nbsp;I'm on track for learning more about DevOps, Kubernetes and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I'd like to play games and other stuffs.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at raulneivaweb@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at raulneiva@pm.me! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Linkedin Profile](https://www.linkedin.com/in/raulneiva/) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
