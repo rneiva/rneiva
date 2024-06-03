@@ -1,15 +1,15 @@
-# rneiva
+# @rneiva
 
-To install dependencies:
+Development & Operations @Devvos 👋
 
-```bash
-bun install
-```
+---
 
-To run:
+<table>
+<tr>
+<td valign="top" width="50%">
+<img src="metrics.svg" alt="Metric" />
+</td>
+<td valign="top" width="50%">
 
-```bash
-bun run index.ts
-```
-
-This project was created using `bun init` in bun v1.1.12. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+</td>
+</tr></table>
