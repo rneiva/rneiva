@@ -51,7 +51,7 @@ const replaceChunk = (
 };
 
 const updateReadme = async (): Promise<void> => {
-  const url = "https://tduyng.github.io/atom.xml";
+  const url = "https://rneiva.github.io/atom.xml";
   const feeds = await fetchFeed(url);
 
   try {
