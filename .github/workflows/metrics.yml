@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - master
+      - main
       
 jobs:
   metrics:
@@ -41,9 +41,12 @@ jobs:
 
   delete-runs:
     runs-on: ubuntu-latest
+    needs: metrics
     steps:
       - name: Delete workflow runs
         uses: Mattraks/delete-workflow-runs@main
         with:
+          token: ${{ secrets.GH_TOKEN }}
+          repository: ${{ github.repository }}
           retain_days: 2
           keep_minimum_runs: 2
